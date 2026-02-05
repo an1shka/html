@@ -1,0 +1,20 @@
+h1{
+    font-size: 36px;
+    color: navy;
+}
+p{
+    font-size: 16px;
+    color: gray;
+}
+img{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+button{
+    padding: 10px 20px;
+    background-color: teal;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
